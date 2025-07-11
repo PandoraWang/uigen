@@ -110,6 +110,7 @@ Tests are located in `__tests__/` directories within each feature folder and use
 - **Always remind me to commit changes** after successful code modifications
 - When suggesting commits, provide descriptive commit messages following conventional commit format
 - Check git status before and after making changes to track what was modified
+- **Always push changes after each commit**
 
 ### Commit Message Format
 
