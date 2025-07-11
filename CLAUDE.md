@@ -174,3 +174,5 @@ After each successful code change:
 - Prefer atomic commits (one logical change per commit)
 - Include relevant file paths in commit messages when helpful
 - Ask before committing if changes affect multiple unrelated areas
+
+## Additional Notes
